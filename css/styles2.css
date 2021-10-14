@@ -1,10 +1,10 @@
 body{
-  background-color:rgb(243, 236, 236);
+  background-color:rgb(243, 217, 217);
   font-family:sans-serif
 }
 .shelter h1 {
   text-align: center;
-  color:rgb(167, 80, 95);
+  color:rgb(2, 83, 15);
 }
 .animal h3, p, img{
   color:rgb(48, 43, 43);
@@ -17,4 +17,6 @@ body{
     width: 29%;
     margin:1%;
     padding:1%;
+    background-color: ivory;
+    height:400px;
   }
