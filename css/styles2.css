@@ -4,19 +4,17 @@ body{
 }
 .shelter h1 {
   text-align: center;
-  color:rgb(167, 80, 95)
+  color:rgb(167, 80, 95);
 }
-.animal h2, .animal p {
+.animal h3, p, img{
   color:rgb(48, 43, 43);
   margin:10px;
   text-align:center;
+  border-image-width: 1px;
   }
   .animal {
     float:left;
-    width:40%;
+    width: 29%;
     margin:1%;
     padding:1%;
-    height: 300px;
   }
-
-
